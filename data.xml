@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<test>
+	<easy>
+		
+		<question>
+			<ques>Which is the Heaviest snake in these?</ques>
+			<option>Viper</option>
+			<option>Anaconda</option>
+			<option>Reticulated Python</option>
+			<option>Boa Constrictor</option>
+	                <key>1</key>
+
+		</question>
+		<question>
+			<ques>All of the following are examples of real security and privacy risks except?</ques>
+			<option>Viruses</option>
+			<option>Hackers</option>
+			<option>Spam</option>
+			<option>Identity Theft</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>The term bit is short for?</ques>
+			<option>Binary digit</option>
+			<option>Binary number</option>
+			<option>Binary language</option>
+			<option>Megabyte</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>Madhuri Dixit's name in N Chandra's 'Tezaab' was?</ques>
+			<option>Mohini</option>
+			<option>Madhuri</option>
+			<option>Pooja</option>
+			<option>Ritu</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>Who coined the popular slogan 'Jai Jawan- Jai Kisan'?</ques>
+			<option>Sardar vallabhai Patel</option>
+			<option>Lokmanya Tilak</option>
+			<option>C.Rajagopalachari</option>
+			<option>Lal Bhadur Shastri</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>As per census data 2011, most populous state in India is?</ques>
+			<option>Maharastra</option>
+			<option>West Bengal</option>
+			<option>Bihar</option>
+			<option>Uttar Pradesh</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Where would you find the Empire state Building?</ques>
+			<option>London</option>
+			<option>New york City</option>
+			<option>Chicago</option>
+			<option>Japan</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>What is the plural of alumnus?</ques>
+			<option>Aluminium</option>
+			<option>Alumni</option>
+			<option>Alumna</option>
+			<option>Albion</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Which of these films was Ashutosh Gowariker's directorial debut?</ques>
+			<option>Pehla Nasha</option>
+			<option>Afsana Pyaar Ka</option>
+			<option>Swades</option>
+			<option>Jung</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>Which letter cannot be turned upside down, reflected in a mirror and still look correct?</ques>
+			<option>B</option>
+			<option>D</option>
+			<option>O</option>
+			<option>U</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>Acupuncture is widely practised in?</ques>
+			<option>India</option>
+			<option>China</option>
+			<option>America</option>
+			<option>Germany</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Arabica, Robusta and Liberica are the varieties of which popular beverage?</ques>
+			<option>Yogurt</option>
+			<option>Tea</option>
+			<option>Coffee</option>
+			<option>Lemonade</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>How many syllables does illuminate have?</ques>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option>5</option>				
+			<key>2</key>
+		</question>
+		<question>
+			<ques>In Roman numerals, which letter represents one hundred?</ques>
+			<option>L</option>
+			<option>X</option>
+			<option>M</option>
+			<option>C</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Currency of Bangladesh is?</ques>
+			<option>Bangla</option>
+			<option>Rupee</option>
+			<option>Taka</option>
+			<option>Rupiah</option>
+			<key>2</key>
+		</question>
+	</easy>
+
+	<medium>
+		<question>
+			<ques>Around March 2011, UN-Women announced a new regional programme to address the needs of widows in India, Nepal?</ques>
+			<option>China</option>
+			<option>Pakistan</option>
+			<option>Bhutan</option>
+			<option>Sri Lanka</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Sanchi portrays the art and sculpture of the?</ques>
+			<option>Jains</option>
+			<option>Christians</option>
+			<option>Muslims</option>
+			<option>Buddhists</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Which team posted highest team total in Cricket World Cup 2011?</ques>
+			<option>Sri Lanka</option>
+			<option>South Africa</option>
+			<option>Australia</option>
+			<option>India</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>First Woman IPS officer in India?</ques>
+			<option>Kiran Bedi</option>
+			<option>Reita Faria</option>
+			<option>Kalpana Chawala</option>
+			<option>Pratima Puri</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>As of 2011, Which country has emerged as World's No.1 Arms Importer ?</ques>
+			<option>USA</option>
+			<option>India</option>
+			<option>Russia</option>
+			<option>China</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Solar eclips occurs when?</ques>
+			<option>Moon comes between Earth and Sun</option>
+			<option>Sun comes between Moon and Earth</option>
+			<option>Earth comes between Moon and Sun</option>
+			<option>None of the choices</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>The General who gave the firing orders at Jallianwala Bagh was?</ques>
+			<option>O'Dwyer</option>
+			<option>General Simon</option>
+			<option>Cornwallis</option>
+			<option>Tegart</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>In Hindu mythology who is the God of death?</ques>
+			<option>Indra</option>
+			<option>Yama</option>
+			<option>Sarswati</option>
+			<option>Brahma</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Who was recently jailed for Test match-fixing scandal?</ques>
+			<option>Rashid Latif</option>
+			<option>Adbur Razzaq</option>
+			<option>Salman Butt</option>
+			<option>Shahid Afridi</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>In the middle of which lake is the Golden Temple located?</ques>
+			<option>Shanth Sarovar</option>
+			<option>Golden Lake</option>
+			<option>Amrit Sarovar</option>
+			<option>Uri Lake</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Name of KBC's first 5 crore winning contestant?</ques>
+			<option>Sahil Kumar</option>
+			<option>Sushil Kumar</option>
+			<option>Stazin</option>
+			<option>saroj Devi</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Full form of ICC is?</ques>
+			<option>International cost camp</option>
+			<option>Indian cricket council</option>
+			<option>International Cricket council</option>
+			<option>International Cricket cup</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>Invisible export means?</ques>
+			<option>Exporting arms</option>
+			<option>Services</option>
+			<option>Export of smuggling goods</option>
+			<option>Export of Petroleum</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>'Growth is life' is a punchline associated with?</ques>
+			<option>LIC</option>
+			<option>ICICI Bank</option>
+			<option>Tata AIG</option>
+			<option>Reliance Industries Ltd</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>The letters, DOS(in computers) stands for?</ques>
+			<option>Data Out system</option>
+			<option>Data Operating System</option>
+			<option>Disk Out System</option>
+			<option>Disk Operating System</option>
+			<key>3</key>
+		</question>
+	</medium>
+	<tough>
+		<question>
+			<ques>'Gayatri Mantra' has been mentioned in which of the Vedas?</ques>
+			<option>Samveda</option>
+			<option>Atharvaveda</option>
+			<option>Rigveda</option>
+			<option>None of the choices</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>Series of poltical protests occurred in 2010 from March to May against the Democratic Party-led government, known as?</ques>
+			<option>Vietnam</option>
+			<option>Thailand</option>
+			<option>Bangladesh</option>
+			<option>Russia</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Lin Dan was voted Most valuable Player(MVP) in Asian games in which sports?</ques>
+			<option>Tennis</option>
+			<option>Swimming</option>
+			<option>Basketball</option>
+			<option>Badminton</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Which historical character's name appear in a song in the film 'Ishqiya'?</ques>
+			<option>Iltutmish</option>
+			<option>Ibn Battuta</option>
+			<option>Al-Beruni</option>
+			<option>Almasud</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Youtube was sold for?</ques>
+			<option>$500 million</option>
+			<option>$1.5 billion</option>
+			<option>$1.65 billion</option>
+			<option>$100 million</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>Which country has the largest number of Post office in the world?</ques>
+			<option>Russia</option>
+			<option>USA</option>
+			<option>China</option>
+			<option>India</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Word Lnuit meana?</ques>
+			<option>Intution</option>
+			<option>units</option>
+			<option>People</option>
+			<option>Place</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>Which star received the award oh the "The Star of the Millennium" from BBC?</ques>
+			<option>Dillip Kumar</option>
+			<option>Amitabh Bacchan</option>
+			<option>Shahrukh Khan</option>
+			<option>Sanjay Dutt</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Sania Nehwal is related to which sports?</ques>
+			<option>Tennis</option>
+			<option>Chess</option>
+			<option>Badminton</option>
+			<option>Table Tennis</option>
+			<key>2</key>
+		</question>
+		<question>
+			<ques>35% of smart phone owners annoy partners by doing what?</ques>
+			<option>Checking mail</option>
+			<option>Playing games</option>
+			<option>Texting</option>
+			<option>Watching movie</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>The first series of coins with the rupee symbol was launched in 2011 on?</ques>
+			<option>8 July</option>
+			<option>15 June</option>
+			<option>24 March</option>
+			<option>21 Sep</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>Politician who installed statues of her worth Rs 1,000 crore in her state?</ques>
+			<option>Mayawati</option>
+			<option>Nandini satpathy</option>
+			<option>J Jayalalithaa</option>
+			<option>Mamata Banerjee</option>
+			<key>0</key>
+		</question>
+		<question>
+			<ques>Diamonds are sold in carats. One carat unit is equivalent to?</ques>
+			<option>0.1 gram</option>
+			<option>0.02 gram</option>
+			<option>1 gram</option>
+			<option>0.09 gram</option>
+			<key>1</key>
+		</question>
+		<question>
+			<ques>Heaviest Organ in Human Body out of these?</ques>
+			<option>Lungs</option>
+			<option>Liver</option>
+			<option>Heart</option>
+			<option>Brain</option>
+			<key>3</key>
+		</question>
+		<question>
+			<ques>Normally the number of chromosomes in Human body is?</ques>
+			<option>56</option>
+			<option>23</option>
+			<option>46</option>
+			<option>44</option>
+			<key>2</key>
+		</question>
+		
+	</tough>
+</test>

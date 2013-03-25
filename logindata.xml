@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<logind>
+<login>
+	<username>1001</username>
+	<password>abc</password>
+	<count>1</count>
+</login>
+<login>
+	<username>1002</username>
+	<password>def</password>
+	<count>0</count>
+</login>
+<login>
+	<username>1003</username>
+	<password>ghi</password>
+	<count>0</count>
+</login>
+<login>
+	<username>1004</username>
+	<password>jkl</password>
+	<count>0</count>
+</login>
+<login>
+	<username>1005</username>
+	<password>mno</password>
+	<count>1</count>
+</login>
+</logind>
