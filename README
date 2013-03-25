@@ -1,0 +1,1 @@
+A simple online test application built with php as backend and xml to store questions. The test has 15 questions, with 5 easy, 5 medium and 5 tough questions. The questions are randomly generated and a user cannot take the test twice. Results and ranks are generated based on the score.
